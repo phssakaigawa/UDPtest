@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDPtest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UDPtest_jar</output-path>
+    <root id="archive" name="UDPtest.jar">
+      <element id="module-output" name="UDPtest" />
+    </root>
+  </artifact>
+</component>
